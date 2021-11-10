@@ -1,0 +1,4 @@
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+#  com.eip.cloud.dynamic.thread.pool.config.DynamicThreadPoolAutoConfiguration,\
+#  com.eip.cloud.dynamic.thread.pool.config.DynamicThreadPoolAutoConfiguration.NacosConfiguration,\
+#  com.eip.cloud.dynamic.thread.pool.config.DynamicThreadPoolAutoConfiguration.ApolloConfiguration
